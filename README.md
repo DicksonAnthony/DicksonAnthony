@@ -6,5 +6,4 @@
 <hr>
 
 - React
-- React native
 - HTML, CSS & JS
