@@ -8,3 +8,4 @@
 - 🌌React
 - 📱 React Native
 - 💻HTML, CSS & JS
+- 🛒WordPress
