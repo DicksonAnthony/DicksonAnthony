@@ -9,3 +9,4 @@
 - 📱 React Native
 - 💻HTML, CSS & JS
 - 🛒WordPress
+- 🖌Figma
